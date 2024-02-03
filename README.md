@@ -22,9 +22,13 @@ install OpenJdk 17, maven and clone this repo. Import it to Spring Tools Suite a
 #Endpoints
 
 localhost:8080/new-student - Create New Student (POST Request)
+
 localhost:8080/all-student - GET New Student (GET Request)
+
 localhost:8080/student/{id} - Update Student (PUT Request)
+
 localhost:8080/student/{id}- GET Student by id(GET Request)
+
 localhost:8080/student/{id}- DELETE Student by id(DELETE Request)
 
 #Passwords
