@@ -24,6 +24,6 @@ DB User:root
 
 DB Password:123Test
 
-Spring security usenake:root
+Spring security usename:root
 
 Spring Security password:123Password
