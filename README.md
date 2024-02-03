@@ -21,6 +21,9 @@ localhost:8080/student/{id}- DELETE Student by id(DELETE Request)
 #Passwords
 
 DB User:root
+
 DB Password:123Test
+
 Spring security usenake:root
+
 Spring Security password:123Password
